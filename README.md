@@ -19,7 +19,7 @@ This project calculates commission fees for cash in and cash out operations base
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/commission-calculator.git
+    git clone https://github.com/wladimir1982/commission-calculator.git
     cd commission-calculator
     ```
 
